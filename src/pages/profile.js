@@ -56,11 +56,11 @@ console.log(user)
         <>
         <main>
         <h1>My Foodies Profile 
-            <a href="/createPost" >
+            <Link href="/createPost" >
                 <div className={styles.logo}>
                     <img src="https://cdn0.iconfinder.com/data/icons/instagram-ui-1/24/Instagram-UI_post-512.png"/>
                 </div>
-            </a>
+            </Link>
 
         </h1>  
         <UserProfileCard user={user} userInformation={userInformation}/>
