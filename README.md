@@ -1,3 +1,5 @@
+A Foodies website where you can review restaurants and view what other people post. Here is a redesign of this in Figma: https://www.figma.com/proto/Iwgg1xLfevpn1hVsoatnC1/Arianny-UX-Class-Figma-exercise-SS24?node-id=4367-13&t=4vj7LW8fkfA04r3V-1 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
